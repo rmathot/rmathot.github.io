@@ -3,6 +3,7 @@ layout: post
 title:  "Nouvelle année, nouveau blog!"
 date:   2021-01-01 00:00:00 +0000
 categories: meta
+tags: [meta, vœux]
 ---
 
 Au fond, pourquoi pas?
