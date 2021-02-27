@@ -1,13 +1,13 @@
 title: Le blog de rmathot
 email: noone@nowhere.example.com
 description: >-
-  Un autre blog perso.
+  L'informatique, le monde et ma cuisine.
 baseurl: ""
 url: "https://rmathot.github.io"
 twitter_username: RichardMathot
 github_username:  rmathot
 
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
