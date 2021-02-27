@@ -7,7 +7,7 @@ url: "https://rmathot.github.io"
 twitter_username: RichardMathot
 github_username:  rmathot
 
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
