@@ -40,5 +40,6 @@ Il en a aussi quelques moins bons : notamment, les commentaires non-modérés q
 À l'heure où j'écris ces lignes (début 2021), il ne me paraît pas responsable d'ouvrir un espace de commentaires sans aucune modération sur mon blog perso. Mais je n'ai pas le temps (ni l'envie #flemme) de faire de la modération active pour le moment. En conséquence : il n'est pas possible de laisser des commentaires par ici.
 
 Si un post t'a marqué, si tu penses que j'ai laissé passer une erreur grossière (ça arrive !) ou simplement tu veux réagir, chère lectrice, cher lecteur, il est toujours possible de m'envoyer un tweet ou un courriel, tant que le message est poli et constructif.
-Évidemment, les remarques non-constructives et les insultes peuvent rester bien logées dans ton clavier : je ne suis pas là pour servir de décharge à tes émotions, apprends à les exprimer autrement que par la violence (verbale ou écrite).
+
+<!-- Évidemment, les remarques non-constructives et les insultes peuvent rester bien logées dans ton clavier : je ne suis pas là pour servir de décharge à tes émotions, apprends à les exprimer autrement que par la violence (verbale ou écrite). -->
 

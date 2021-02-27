@@ -4,6 +4,8 @@ description: >-
   L'informatique, le monde et ma cuisine.
 baseurl: ""
 url: "https://rmathot.github.io"
+lang: fr_BE
+locale: fr_BE
 twitter_username: RichardMathot
 github_username:  rmathot
 
@@ -12,4 +14,3 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jemoji
