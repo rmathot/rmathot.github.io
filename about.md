@@ -6,12 +6,19 @@ permalink: /a-propos/
 
 ## Bienvenue dans mon grenier
 
-Ceci est mon blog perso. Il me sert surtout à vider les trucs qui prennent de la place dans mon cerveau et qui ne tiennent pas dans des tweets.
+Ceci est mon blog perso. 
+
+Il me sert surtout à vider les choses qui prennent de la place dans mon cerveau et qui ne tiennent pas dans des tweets.
 
 Vu que je suis développeur (essentiellement Python, SQL) et que j'habite en Belgique, il est possible que l'actu belge et l'informatique soient des sujets qui reviennent régulièrement.
 
-Ne t'attends pas à du contenu trop malin quand même ;)
+Il y aura aussi des GIFs animés. Beaucoup de GIFs animés.
 
+Ne t'attends pas à du contenu trop malin quand même... 😉
+
+Bonne lecture.
+
+<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" alt="[GIF animé] Kermit tape frénétiquement à la machine à écrire" loading="lazy"/>
 
 ## Pourquoi qu'on peut pas commenter, j'avais un truc à ajouter... ?
 
