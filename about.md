@@ -31,6 +31,7 @@ Ce blog est réalisé au maximum avec des [logiciels libres](https://fr.wikipedi
 Il est hébergé par [GitHub Pages](https://pages.github.com/). Un jour, je m'auto-hébergerai, mais là, GitHub fait tout pour moi gratuitement et c'est appréciable.
 
 
+<!--
 ## Pourquoi qu'on peut pas commenter, j'avais un truc à ajouter... ?
 
 Internet a beaucoup d'avantages et de très bon côtés : il permet à tout le monde de s'exprimer, de se regrouper autout d'intérêts communs, de se mobiliser, de se faire connaître, de partager de la connaissance ou simplement des trucs rigolos.
@@ -41,5 +42,6 @@ Il en a aussi quelques moins bons : notamment, les commentaires non-modérés q
 
 Si un post t'a marqué, si tu penses que j'ai laissé passer une erreur grossière (ça arrive !) ou simplement tu veux réagir, chère lectrice, cher lecteur, il est toujours possible de m'envoyer un tweet ou un courriel, tant que le message est poli et constructif.
 
-<!-- Évidemment, les remarques non-constructives et les insultes peuvent rester bien logées dans ton clavier : je ne suis pas là pour servir de décharge à tes émotions, apprends à les exprimer autrement que par la violence (verbale ou écrite). -->
+Évidemment, les remarques non-constructives et les insultes peuvent rester bien logées dans ton clavier : je ne suis pas là pour servir de décharge à tes émotions, apprends à les exprimer autrement que par la violence (verbale ou écrite). 
+-->
 
